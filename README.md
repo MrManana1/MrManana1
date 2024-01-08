@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul-Manan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffariza-rafa.medium.com%2F10-web-development-fundamentals-you-should-know-e0d47c23a850&psig=AOvVaw0p9PZBWzwT6aw1tDj4_4qa&ust=1704808723115000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi36sX5zYMDFQAAAAAdAAAAABAD)">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmanana1&label=Profile%20views&color=0e75b6&style=flat" alt="mrmanana1" /> </p>
 
