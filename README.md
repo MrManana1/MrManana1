@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **PDF Based question answer chatbot**
 
-- 🌱 I’m currently learning **React js and React native**
-
 - 💬 Ask me about **Bootstrap,Flask, Deployement, Figma Designing**
 
 - 📫 How to reach me **manan100111@gmail.com**
